@@ -144,3 +144,6 @@ Scan the QR code using [Dingtalk App](https://www.dingtalk.com/) to join in disc
 
 ## LICENSE
 [MIT](LICENSE)
+
+## vue mixins
+页面的风格不用，但是执行的方法和需要的数据类似，用于提取公共部分
