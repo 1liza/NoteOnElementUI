@@ -1,3 +1,4 @@
+// 广播
 function broadcast(componentName, eventName, params) {
   this.$children.forEach(child => {
     var name = child.$options.componentName;
